@@ -1,0 +1,17 @@
+{
+  "name": "amay-resume",
+  "description": "Alex May's Resume",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amay/resume.git"
+  },
+  "scripts": {
+    "postinstall": "cp resume.css node_modules/markdown-resume/assets/css/",
+    "build": "node_modules/.bin/md2resume resume.md && node_modules/.bin/md2resume --pdf resume.md"
+  },
+  "dependencies": {
+    "markdown-resume": "~0.1.0"
+  },
+  "license": "ISC"
+}
