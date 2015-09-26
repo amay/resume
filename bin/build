@@ -2,8 +2,6 @@
 
 set -e
 
-[ -d markdown-resume ] || git clone git@github.com:there4/markdown-resume.git
-
 mkdir -p dist
 
 markdown-resume/bin/md2resume pdf resume.md dist
