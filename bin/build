@@ -6,3 +6,5 @@ mkdir -p dist
 
 markdown-resume/bin/md2resume pdf -t modern resume.md dist
 markdown-resume/bin/md2resume html -t modern resume.md dist
+
+cp dist/resume.html index.html
