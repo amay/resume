@@ -4,5 +4,5 @@ set -e
 
 mkdir -p dist
 
-markdown-resume/bin/md2resume pdf resume.md dist
-markdown-resume/bin/md2resume html resume.md dist
+markdown-resume/bin/md2resume pdf -t modern resume.md dist
+markdown-resume/bin/md2resume html -t modern resume.md dist
