@@ -15,14 +15,14 @@ Build bad ass products that help people solve problems. Work with a highly colla
 
 ### Skills {#skills}
 
+* Continuous Improvement
+  : Dedicated to learning, and assuming that there is always a way to improve my skills and process.
+
 * Iterative Delivery
-  : Assertively exploit wireless initiatives rather than synergistic core competencies.
+  : Experienced in the pragmatic application of agile and lean techniques used to efficiently develop successful products.
 
-* TODO
-  : Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.
-
-* Test Driven Design
-  : Credibly streamline mission-critical value with multifunctional functionalities.
+* Creative Problem Solving
+  : Proven ability to creatively solve problems whether designing, debugging or optimizing.
 
 -------
 
