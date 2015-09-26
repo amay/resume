@@ -45,12 +45,12 @@ Build bad ass products that help people solve problems. Work with a highly colla
 Substantial
 : *Lead Developer*
   __2011 - Present__
-  Lead teams building software products across a wide variety of industries and technology stacks. Develop beautiful UIs and efficient APIs all in the same day. Work collaboratively with multi-disciplinary teams to find novel solutions for tricky problems. Help clients rapidly move products from early inception to full market adoption. Challenge team to focus on learning and mentoring as primary objectives.
+  Lead teams building software products across a wide variety of industries and technology stacks. Develop beautiful UIs and efficient APIs all in the same day. Work collaboratively with multi-disciplinary teams to find novel solutions for tricky problems. Help clients rapidly move products from inception to full market adoption. Challenge teams to focus on learning and mentoring as primary objectives.
 
 GridPoint, Inc.
 : *Software Developer*
   __2009 - 2011__
-  Developed full stack smart grid products, focused on wind power and electric vehicle charging, built using Java server technologies. Delivered dev-ops automation system built in Rails allowing for quick provisioning of new production environments.
+  Developed full stack smart grid products focusing on wind power and electric vehicle charging, built using Java server technologies. Delivered dev-ops automation system with Rails, allowing for quick provisioning of new production environments.
 
 Impinj, Inc.
 : *Digital Design Engineer*
