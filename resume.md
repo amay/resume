@@ -55,6 +55,12 @@ display: block; font-size: 104%; line-height: 24px;">
 
 ### Experience {#experience}
 
+98point6
+: *Software Developer*
+  __2016 - Present__
+  Rapid development of multiple hybrid client-side applications in React to enable
+  market validation for stealth mode health care technology startup.
+
 Substantial
 : *Lead Developer*
   <strong style="min-width:80px">2011 - 2016</strong>
