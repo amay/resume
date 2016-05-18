@@ -7,7 +7,7 @@
 
 ------
 
-### Profile {#profile}
+### Goals {#goals}
 
 Build bad ass products that help people solve problems. Work with a highly collaborative team of passionate individuals to build those products. Always learn. <br/><br/> What I'm into right now: React, Node, TDD, functional programming and build-measure-learn feedback cycles.
 
@@ -16,10 +16,10 @@ Build bad ass products that help people solve problems. Work with a highly colla
 ### Skills {#skills}
 
 * Continuous Improvement
-  : Dedicated to learning, and assuming that there is always a way to improve my skills and process.
+  : Dedicated to learning and assuming that there is always a way to improve my skills and process.
 
-* Iterative Delivery
-  : Experienced in the pragmatic application of agile and lean techniques used to efficiently develop successful products.
+* Delivers Results
+  : Experienced in maintaining focus on critical results needed to move company closer to objective.
 
 * Creative Problem Solving
   : Proven ability to creatively solve problems whether designing, debugging or optimizing.
@@ -42,10 +42,15 @@ Build bad ass products that help people solve problems. Work with a highly colla
 
 ### Experience {#experience}
 
+98point6
+: *Software Development Engineer*
+  __2015 - Present__
+  Rapidly developed multiple hybrid client-side React applications and supporting APIs to enable market validation for stealth mode health care technology startup. Helped team successfully raise series A financing.
+
 Substantial
 : *Lead Developer*
-  __2011 - Present__
-  Lead teams building software products across a wide variety of industries and technology stacks. Develop beautiful UIs and efficient APIs all in the same day. Work collaboratively with multi-disciplinary teams to find novel solutions for tricky problems. Help clients rapidly move products from inception to full market adoption. Challenge teams to focus on learning and mentoring as primary objectives.
+  __2011 - 2015__
+  Lead teams building software products across a wide variety of industries and technology stacks. Developed beautiful UIs and efficient APIs all in the same day. Worked collaboratively with multi-disciplinary teams to find novel solutions for tricky problems. Helped clients rapidly move products from inception to full market adoption. Challenged teams to focus on learning and mentoring as primary objectives.
 
 GridPoint, Inc.
 : *Software Developer*
