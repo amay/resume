@@ -42,9 +42,14 @@ Build bad ass products that help people solve problems. Work with a highly colla
 
 ### Experience {#experience}
 
+Blackbird Studios
+: *CTO & Partner*
+  __2016 - Present__
+  Work with clients to deliver amazing products. Having fun building a world-class team of developers who are as good at thinking about product as they are crafting code.
+
 98point6
 : *Software Development Engineer*
-  __2015 - Present__
+  __2015 - 2016__
   Rapidly developed multiple hybrid client-side React applications and supporting APIs to enable market validation for stealth mode health care technology startup. Helped team successfully raise series A financing.
 
 Substantial
